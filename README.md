@@ -28,8 +28,6 @@
 
 Este projeto e um desafio proposto no curso Ignite React JS da [Rocketseat](https://rocketseat.com.br/) e tem como objetivo era criar os componentes da sidebar e da lista de filmes.
 
-In this project you can subscribe to read posts about the ReactJS world.
-
 ## 🚀 Technologies
 
 - [Next.js](https://nextjs.org/)
